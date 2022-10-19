@@ -1,9 +1,0 @@
-/home/turra/ros2_ws_intermediate/build/action_tutorials_interfaces/CMakeFiles/install/strip.dir
-/home/turra/ros2_ws_intermediate/build/action_tutorials_interfaces/CMakeFiles/install/local.dir
-/home/turra/ros2_ws_intermediate/build/action_tutorials_interfaces/CMakeFiles/install.dir
-/home/turra/ros2_ws_intermediate/build/action_tutorials_interfaces/CMakeFiles/list_install_components.dir
-/home/turra/ros2_ws_intermediate/build/action_tutorials_interfaces/CMakeFiles/rebuild_cache.dir
-/home/turra/ros2_ws_intermediate/build/action_tutorials_interfaces/CMakeFiles/edit_cache.dir
-/home/turra/ros2_ws_intermediate/build/action_tutorials_interfaces/CMakeFiles/test.dir
-/home/turra/ros2_ws_intermediate/build/action_tutorials_interfaces/CMakeFiles/action_tutorials_interfaces_uninstall.dir
-/home/turra/ros2_ws_intermediate/build/action_tutorials_interfaces/CMakeFiles/uninstall.dir
